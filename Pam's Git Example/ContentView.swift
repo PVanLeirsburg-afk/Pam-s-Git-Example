@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, GitHub!")
+            Text("Now I have a backup!")
         }
         .padding()
     }
